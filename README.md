@@ -16,7 +16,7 @@ Font Awesome: Ícones modernos e elegantes
 Google Fonts: Fontes Cinzel e Cormorant Garamond
 
 🚀 Como Configurar o Projeto
-## Pré-requisitos
+Pré-requisitos
 Servidor web (Apache, Nginx ou similar)
 PHP 7.0 ou superior
 Navegador web atualizado
